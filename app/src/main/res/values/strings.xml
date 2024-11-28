@@ -1,0 +1,66 @@
+<resources>
+    <!-- Nama aplikasi -->
+    <string name="app_name">Cupcake</string>
+
+    <!-- Judul halaman untuk memesan cupcake -->
+    <string name="order_cupcakes">Order Cupcakes</string>
+
+    <!-- Pilihan jumlah cupcake -->
+    <string name="one_cupcake">One Cupcake</string>
+    <string name="six_cupcakes">Six Cupcakes</string>
+    <string name="twelve_cupcakes">Twelve Cupcakes</string>
+
+    <!-- Judul untuk memilih rasa cupcake -->
+    <string name="choose_flavor">Choose Flavor</string>
+
+    <!-- Nama-nama rasa cupcake -->
+    <string name="vanilla">Vanilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Coffee</string>
+
+    <!-- Opsi rasa khusus -->
+    <string name="special_flavor">Special Flavor</string>
+
+    <!-- Tombol aksi -->
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+
+    <!-- Judul untuk memilih tanggal pengambilan -->
+    <string name="choose_pickup_date">Choose Pickup Date</string>
+
+    <!-- Judul untuk halaman ringkasan pesanan -->
+    <string name="order_summary">Order Summary</string>
+
+    <!-- Tombol untuk mengirim pesanan ke aplikasi lain -->
+    <string name="send">Send Order to Another App</string>
+
+    <!-- Label untuk informasi pesanan -->
+    <string name="quantity">Quantity</string>
+    <string name="flavor">Flavor</string>
+    <string name="pickup_date">Pickup date</string>
+
+    <!-- Format harga subtotal -->
+    <string name="subtotal_price">Subtotal %s</string>
+
+    <!-- Format harga total -->
+    <string name="total_price">Total %s</string>
+
+    <!-- Judul untuk pesanan baru -->
+    <string name="new_cupcake_order">New Cupcake Order</string>
+
+    <!-- Format ringkasan pesanan -->
+    <string name="order_details">Quantity: %1$s \nFlavor: %2$s \nPickup date: %3$s \nTotal: %4$s \n\nThank you!</string>
+
+    <!-- Label untuk tombol kembali -->
+    <string name="back_button">Back</string>
+
+    <!-- Plurals untuk cupcakes -->
+    <plurals name="cupcakes">
+        <!-- Jumlah cupcake jika hanya satu -->
+        <item quantity="one">%d cupcake</item>
+        <!-- Jumlah cupcake jika lebih dari satu -->
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+</resources>
